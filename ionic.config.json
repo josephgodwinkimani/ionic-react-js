@@ -1,0 +1,7 @@
+{
+  "name": "moneybuddy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
